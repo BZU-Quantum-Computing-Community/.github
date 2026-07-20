@@ -1,62 +1,50 @@
-<div align="center">
+# BZU Quantum Computing Community
 
-# ⚛️ BZU Quantum Computing Community
-
-### Palestine's First Quantum Computing Club — Birzeit University
-
-[![Website](https://img.shields.io/badge/Website-Visit-6DD5ED)](https://your-website-link.com)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F)](https://instagram.com/your-handle)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000)](https://youtube.com/@your-handle)
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2)](https://discord.gg/your-invite)
-
-</div>
+**Birzeit University — Palestine's First Quantum Computing Community**
 
 ---
 
-## Who We Are
+## Mission
 
-We're a student-led community building quantum computing literacy, research, and culture at Birzeit University — and across Palestine. We combine **research, software development, and community engagement** to make quantum computing accessible to anyone curious enough to ask "what is a qubit?"
+We exist to build quantum computing literacy, research capacity, and technical culture at Birzeit University, and to establish a replicable model for quantum computing communities across Palestinian universities.
 
-**Our mission**: Establish BZU as the hub for quantum computing education and research in Palestine, and build a sustainable model for other universities to follow.
-
----
-
-## What We're Building
-
-| | |
-|---|---|
-| 🔬 **Research** | Mini-research projects on quantum fundamentals (phase kickback, measurement, gates) and specialized tracks (QML, QOA, QCC) |
-| 💻 **Software** | Qiskit implementations, tutorials, and algorithm development across quantum machine learning, optimization, and cryptography |
-| 🎨 **Content & Events** | A structured public content series ("Quantum Explained") plus workshops, hackathons, and Qiskit Fall Fest |
+We approach this through three coordinated functions: **research**, **software development**, and **public engagement** — treating quantum computing not as an isolated technical curiosity, but as an emerging field that Palestinian students are equipped to contribute to.
 
 ---
 
-## 📌 Pinned Repositories
+## Structure
 
-*(Pin these 4 from the org repo list: `research-projects`, `software-projects`, `content-engagement`, `learning-program`)*
+The organization is composed of three teams, each maintaining dedicated repositories:
 
----
+**Research** — literature-driven investigation of quantum computing fundamentals and specialized tracks in quantum machine learning, optimization, and communication/cryptography.
+→ [`research-projects`](../research-projects)
 
-## Our Teams
+**Software** — implementation, tooling, and documentation built on Qiskit, translating theoretical work into reproducible, tested code.
+→ [`software-projects`](../software-projects)
 
-- **Research Team** — literature review, mathematical foundations, algorithm analysis
-- **Software Team** — Qiskit implementation, circuit optimization, tooling
-- **Creative Team** (Event Production & Media) — content creation, social media, event logistics
+**Content & Engagement** — a structured public education series and event program (workshops, hackathons, Qiskit Fall Fest) designed to extend quantum computing literacy beyond the club to the wider university and national community.
+→ [`content-engagement`](../content-engagement)
 
-Curious how we're organized? See [`governance`](../governance) *(private, members only)*.
-
----
-
-## Get Involved
-
-- 🎓 **BZU Students**: Join us! Check [`learning-program`](../learning-program) to start learning, or reach out on Discord.
-- 🏫 **Other Universities**: Interested in Qiskit Fall Fest or collaboration? Open an issue in [`content-engagement`](../content-engagement) or reach out via our website.
-- 🤝 **Sponsors & Partners**: See our sponsorship info on [our website](https://your-website-link.com).
+Shared learning resources across all members are maintained in [`learning-program`](../learning-program). Internal governance and process documentation is maintained in `governance` (private, members only).
 
 ---
 
-<div align="center">
+## Working With Us
 
-**Building Palestine's quantum future — together.** 🇵🇸
+**Students at BZU** — Begin with [`learning-program`](../learning-program) or reach out through our communication channels to join a team.
 
-</div>
+**Partner Institutions** — We welcome collaboration on inter-university initiatives, including Qiskit Fall Fest. Open an issue in [`content-engagement`](../content-engagement) or contact us directly.
+
+**Sponsors and Industry Partners** — Details on partnership and sponsorship are available on our website.
+
+---
+
+## Links
+
+[`Website`](https://www.pal-quantum-computing.com/) · [`Instagram`](https://www.instagram.com/birzeitqcc) · [`YouTube`](https://www.youtube.com/@BZUQCC) · [`Discord`](https://discord.gg/tV4nE6SpK)
+
+Check more on our [`Linktree`](https://linktr.ee/birzeitqcc)
+
+---
+
+**Palestine's quantum computing ecosystem starts here.**
